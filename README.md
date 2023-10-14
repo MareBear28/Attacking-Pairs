@@ -9,6 +9,8 @@ This repository consists of 3 files:
 1. Pick which algorithm you would like to use to find a solution, either genetic or hill-climbing
 2. After choosing, type in the terminal:
     - python genetic.py
-    or
+
+or
+
     - python hill.py
 3. After execution, the chess board will be printed out with the solution
