@@ -5,7 +5,7 @@ This repository consists of 3 files:
 - genetic.py = file that performs the genetic algorithm with 8 states, using selection, crossover, and mutation to find a solution
 - hill.py = file that performs the hill-climbing algorithm to find a solution
 
-## How to use:
+## How to use: 💡
 1. Pick which algorithm you would like to use to find a solution, either genetic or hill-climbing
 2. After choosing, type in the terminal:
     - python genetic.py
